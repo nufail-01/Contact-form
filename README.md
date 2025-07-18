@@ -7,15 +7,10 @@ This project was created as part of my front-end development practice to focus o
 
 ## 🌐 Live Demo
 
-[![Website Preview](assets/images/loruki.png
-)](https://nufail-01.github.io/Loruki-Cloud-Hosting/)
+[![Website Preview](assets/images/contact.png
+)](https://nufail-01.github.io/Contact-form/)
 
 ---
-
-## 💻 Source Code
-
-[🔗 GitHub Repository](https://github.com/nufail-01/Loruki-Cloud-Hosting)
-
 
 ## Features
 
@@ -34,3 +29,7 @@ This project was created as part of my front-end development practice to focus o
 - **CSS3** – Flexbox and media queries for responsiveness
 
 ---
+
+## 💻 Source Code
+
+[🔗 GitHub Repository](https://github.com/nufail-01/Loruki-Cloud-Hosting)
