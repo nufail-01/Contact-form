@@ -9,7 +9,7 @@ This project was created as part of my front-end development practice to focus o
 
 [![Website Preview](assets/images/contact.png)](https://nufail-01.github.io/Contact-form/)
 
-🔗 **[View Live Project](https://nufail-01.github.io/Contact-form/)**
+
 
 ---
 
