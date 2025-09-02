@@ -35,11 +35,8 @@ This project was created as part of my front-end development practice to focus o
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect with Mee
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
 
----
----
----
 ---
