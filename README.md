@@ -34,10 +34,9 @@ This project was created as part of my front-end development practice to focus o
 📂 [GitHub Repository](https://github.com/nufail-01/Contact-form.git)
 
 ---
-
+---
 ## 🤝 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
 
 ---
-
