@@ -4,7 +4,6 @@ A clean and responsive contact form built using semantic HTML and modular SCSS.
 This project was created as part of my front-end development practice to focus on layout design, form styling, and responsive techniques without relying on JavaScript or backend logic.
 
 ---
----
 
 ## 🌐 Live Demo
 
