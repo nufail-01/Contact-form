@@ -11,6 +11,8 @@ This project was created as part of my front-end development practice to focus o
 
 ---
 
+--
+
 ## ✨ Features
 
 - 🧱 Built entirely with **HTML5**, **CSS3**, and **SCSS**
